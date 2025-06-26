@@ -1,1 +1,1 @@
-print("this is my git reposistary tutuorial")
+print("this is my git reposistary tutuorial") # type: ignore
